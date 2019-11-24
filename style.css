@@ -1,0 +1,104 @@
+.marg {
+    margin-top: 10%;
+}
+
+.margb {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}
+
+.formmarg {
+    margin-top: 10%;
+}
+
+#addressBook {
+    width: 400px;
+}
+
+#logoutbtn {
+    color: white;
+    padding: 15px;
+}
+
+#logoutbtn:hover {
+    background-color: white;
+    color: red;
+}
+
+
+#add {
+    padding: 10px;
+}
+
+#search {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 5%;
+}
+
+#searchresultheading {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2%;
+    padding: 20px;
+    color: royalblue;
+}
+#searchresult {
+    color: black;
+    background-color: #add8e6;
+    text-align: center;
+    margin-top: 5%;
+    padding: 20px;
+    border: 2px purple solid;
+}
+
+#noresult {
+    background-color: #add8e6;
+    text-align: center;
+    margin-top: 5%;
+    padding: 20px;
+    border: 2px red solid;
+}
+
+#noresult {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.margb {
+    margin-top: 5%;
+    padding-bottom: 12px !important;
+}
+
+#logo {
+    margin-bottom: -2px !important;
+    margin-right: 5px;;
+}
+
+.logotxt {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.formpadding {
+    padding-right: 7% !important;
+    color: white;
+}
+
+.btn-info:hover {
+    background-color: white !important;
+    color: #24a0ed !important;
+}
+
+.btn-danger:hover {
+    background-color: white !important;
+    color: #d9534f !important;
+}
+
+.btn-primary:hover {
+    background-color: white !important;
+    color: #428bca !important;
+}
